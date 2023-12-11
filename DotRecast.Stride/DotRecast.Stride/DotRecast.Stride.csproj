@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net8.0</TargetFrameworks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="DotRecast.Recast.Toolset" Version="2023.10.7" />
+    <PackageReference Include="Stride.CommunityToolkit" Version="4.2.0.2043" />
+    <PackageReference Include="Stride.Engine" Version="4.2.0.2043" />
+    <PackageReference Include="Stride.Video" Version="4.2.0.2043" />
+    <PackageReference Include="Stride.Physics" Version="4.2.0.2043" />
+    <PackageReference Include="Stride.Navigation" Version="4.2.0.2043" />
+    <PackageReference Include="Stride.Particles" Version="4.2.0.2043" />
+    <PackageReference Include="Stride.UI" Version="4.2.0.2043" />
+    <PackageReference Include="Stride.Core.Assets.CompilerApp" Version="4.2.0.2043" IncludeAssets="build;buildTransitive" />
+  </ItemGroup>
+</Project>

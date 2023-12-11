@@ -1,0 +1,16 @@
+!Model
+Id: a145dfa6-527e-4fee-8e35-6331becb3c5f
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../Resources/dungeon.obj
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    38316284e89bc576e2312293c24de3df:
+        Name: DefaultMaterial
+        MaterialInstance:
+            Material: null
+DeduplicateMaterials: false
+Modifiers: {}
+~SourceHashes:
+    bf0fed7f04c6ed631919174d306d0042~../Resources/dungeon.obj: 686b286cc266f8ebb42549b0ab305a71

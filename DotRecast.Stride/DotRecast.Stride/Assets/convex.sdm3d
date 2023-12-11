@@ -1,0 +1,16 @@
+!Model
+Id: 603ace9d-d419-452f-b94b-bf0627d7395c
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../Resources/convex.obj
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    3299cc3ecfed9bdb1c0f0360bf283d07:
+        Name: DefaultMaterial
+        MaterialInstance:
+            Material: null
+DeduplicateMaterials: false
+Modifiers: {}
+~SourceHashes:
+    554e04cc715650c095089c0db617c404~../Resources/convex.obj: a30867c4e2b2e599c1b8097511222269

@@ -1,0 +1,16 @@
+!Model
+Id: b891baf1-43cd-4854-8ecb-8dc65d9fa169
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../Resources/bridge.obj
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    2cd5ae37ca56635da67da6ffe271288c:
+        Name: DefaultMaterial
+        MaterialInstance:
+            Material: d3278cbc-210f-4929-9c4b-9e33dcde933c:DefaultMaterial
+DeduplicateMaterials: false
+Modifiers: {}
+~SourceHashes:
+    0ab1076521ebe81f671c09844a66c747~../Resources/bridge.obj: 312f62d6e0c19bf2e46e8b052c99373f
