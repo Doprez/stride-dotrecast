@@ -1,5 +1,5 @@
 # stride-dotrecast
-Integrating Dotrcast with Stride
+Integrating Dotrecast with Stride
 
 Im having a hard time with the coordinate system (I think due to the left vs right handed design but not too sure). Either way, I have a very beginner demo of using the new DotRecast library to generate a mesh as you can see with the cubes at each vertex of the mesh.
 
